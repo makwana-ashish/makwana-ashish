@@ -1,16 +1,38 @@
-### Hi there 👋
+<!-- GitHub README Profile Highlighter -->
 
-<!--
-**makwana-ashish/makwana-ashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Hi, I'm Ashish Makwana</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Chief Technology Officer @ Whitestork Software</b> <br>
+  <b>Senior Lead Software Engineer | SaaS, AWS, Node.js, TypeScript</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+```typescript
+// About Me
+const Ashish = {
+  title: "Senior Lead Software Engineer",
+  experience: "8+ years",
+  skills: [
+    "Node.js", "TypeScript", "NestJS", "Express.js", "AWS",
+    "Microservices", "CI/CD", "DevOps"
+  ],
+  leadership: {
+    teams_led: "6-10 engineers",
+    roles: ["Backend", "Frontend", "QA", "Designers"],
+    companies: [
+      "Whitestork Software (CTO, 2024–present)",
+      "Velt (YC W22, Senior Lead, 2023–2024)",
+      "Corgee (Techstars '22, Senior Lead, 2022–2023)"
+    ]
+  },
+  education: "B.Sc. IT, Shree Swami Vivekananda College",
+  passions: [
+    "System architecture",
+    "Scalable SaaS products",
+    "Performance & security",
+    "Mentoring",
+    "Problem solving"
+  ]
+};
