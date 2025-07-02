@@ -78,4 +78,4 @@ const Ashish = {
 
 </details>
 
-<p align="center"> <b>Let’s connect!</b> <a href="https://www.linkedin.com/in/ashishmakwana08/">LinkedIn</a> | <a href="mailto:ashishmakwana08@gmail.com">Email</a> </p> ```
+<p align="center"> <b>Let’s connect!</b> <a href="www.linkedin.com/in/ashishhmakwana">LinkedIn</a> | <a href="mailto:ashishmkwn43@gmail.com">Email</a> </p> ```
