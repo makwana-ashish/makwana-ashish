@@ -1,10 +1,8 @@
-<!-- GitHub README Profile Highlighter -->
-
 <h2 align="center">👋 Hi, I'm Ashish Makwana</h2>
 
 <p align="center">
   <b>Chief Technology Officer @ Whitestork Software</b> <br>
-  <b>Senior Lead Software Engineer | SaaS, AWS, Node.js, TypeScript</b>
+  <b>Senior Lead Software Engineer | SaaS • AWS • Node.js • TypeScript</b>
 </p>
 
 ---
